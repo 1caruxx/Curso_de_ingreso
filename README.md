@@ -12,6 +12,7 @@ Los lenguajes tratados fueron:
 
 * Entrada y salida de datos
 * if, else
+* switch
 * Estructuras repetitivas while, for y do while
 * Vectores
 
