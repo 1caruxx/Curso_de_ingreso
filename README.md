@@ -39,4 +39,4 @@ Los lenguajes tratados fueron:
 
 # License
 
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE(https://github.com/1caruxx/Curso_de_ingreso/blob/master/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/1caruxx/Curso_de_ingreso/blob/master/LICENSE) file for details.
