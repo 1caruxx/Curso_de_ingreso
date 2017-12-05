@@ -27,10 +27,16 @@ Los lenguajes tratados fueron:
     </tbody>
 </table>
 
+## Profesores
+
+* David Fernandez
+* Yanina Lopez
+* German Scarafilo
+
 ## Autor
 
 * Fernando Lareu - [1caruxx](https://github.com/1caruxx)
 
 # License
 
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE(https://github.com/1caruxx/Curso_de_ingreso/blob/master/LICENSE) file for details.
